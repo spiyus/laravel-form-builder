@@ -2,6 +2,8 @@
 
 A modern, highly polished, and fully functional drag-and-drop Form Builder built directly inside the provided Laravel project. Users can visually construct HTML forms by dragging inputs and layout elements from a sidebar panel into a central drop canvas. Once placed, fields can be configured (label, placeholder, min/max limits, options, CSS class, default values), duplicated, reordered, and deleted.
 
+![Form Builder Screenshot](public/form-builder-screenshot.png)
+
 ---
 
 ## 🚀 Setup & Execution
